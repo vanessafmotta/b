@@ -37,7 +37,7 @@ export const CustomComponent: StoryObj<TextProps> = {
 		children: (
 			<p>Text</p>
 		)
-	}, 
+	},
 	argTypes: {
 		children: {
 			table: {
